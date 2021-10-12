@@ -2,8 +2,8 @@
 The following repository contains a SAT Solver developed for the purposes of the course Knowledge Representation (2020) at the Vrije Universiteit Amsterdam. The algorithm is based on the popular DPLL approach.
 The code was co-created with Caya de Haas, Jaspreet Singh, and Nicole	van de Weijer.
 
-- SAT.py, file containing the SAT Solver
-
+- SAT.py, file containing the SAT Solver with Jeroslow-Wang and MOM Heuristics implemented
+- KRVU2020_paper_29.pdf, final report containing a draft research for the SAT Solver
 
 #### Run the program with inputfile containing sudoku rules and a sudoku puzzle in DIMACS format:
 $ python SAT.py -Sn inputfile
