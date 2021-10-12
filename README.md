@@ -3,6 +3,11 @@ The following repository contains a SAT Solver developed for the purposes of the
 
 - SAT.py, file containing the SAT Solver with JW and MOM Heuristics implemented
 - KRVU2020_paper_29.pdf, final report containing a draft research for the SAT Solver
+- datasets, contains Easy, Medium, and Hard sudokus that can be used as input for SAT.py
+- experiments, code used for the experiments described in KRVU2020_paper_29.pdf
+- rules, contains .txt files with sudoku rules in DIMACS format
+
+## How to Run
 
 #### Run the program with inputfile containing sudoku rules and a sudoku puzzle in DIMACS format:
 $ python SAT.py -Sn inputfile
@@ -14,7 +19,6 @@ $ python SAT.py -Sn rules sudoku
 $ python SAT.py -Sn sudoku
 
 #### The output in DIMACS format is written to an outfile called inputfile.out.txt, where inputfile is the first file that is given as an argument.
-
 
 Code written by: Enrico Calleris, Caya de Haas, Jaspreet Singh, and Nicole	van de Weijer.
 
