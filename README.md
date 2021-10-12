@@ -24,4 +24,4 @@ $ python SAT.py -Sn sudoku
 
 Code written by: Enrico Calleris, Caya de Haas, Jaspreet Singh, and Nicole	van de Weijer.
 
-Reproduced parts of the code have been properly cited.
+Rules and example sudokus were made available by the instructor of the course, Stefan Schlobach (k.s.schlobach@vu.nl). Reproduced parts of the code have been properly cited.
