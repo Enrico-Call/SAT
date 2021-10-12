@@ -20,6 +20,7 @@ $ python SAT.py -Sn sudoku
 
 #### The output in DIMACS format is written to an outfile called inputfile.out.txt, where inputfile is the first file that is given as an argument.
 
+
 Code written by: Enrico Calleris, Caya de Haas, Jaspreet Singh, and Nicole	van de Weijer.
 
 Reproduced parts of the code have been properly cited.
